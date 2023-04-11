@@ -1,0 +1,4 @@
+[submodule "earthoceanfarms"]
+	path = earthoceanfarms
+	url = git@git.vauxoo.com:vauxoo/earthoceanfarms.git
+	branch = 16.0
