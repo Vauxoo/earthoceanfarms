@@ -2,3 +2,6 @@
 	path = earthoceanfarms
 	url = git@git.vauxoo.com:vauxoo/earthoceanfarms.git
 	branch = 16.0
+[submodule "analytic-axis"]
+	path = analytic-axis
+	url = git@git.vauxoo.com:vauxoo/analytic-axis.git
