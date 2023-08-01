@@ -8,5 +8,5 @@
 	branch = 16.0
 [submodule "repair"]
 	path = repair
-	url = git@github.com:OCA/repair.git
+	url = git@github.com:suniagajose/repair.git
 	branch = 15.0
