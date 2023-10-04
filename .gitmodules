@@ -2,3 +2,7 @@
 	path = earthoceanfarms
 	url = git@git.vauxoo.com:vauxoo/earthoceanfarms.git
 	branch = 16.0
+[submodule "gandalf"]
+	path = gandalf
+	url = git@git.vauxoo.com:vauxoo/gandalf.git
+	branch = 16.0
