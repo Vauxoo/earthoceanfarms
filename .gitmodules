@@ -46,3 +46,7 @@
 	path = xunnel-account
 	url = https://git.vauxoo.com/vauxoo/xunnel-account.git
 	branch = 16.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = git@github.com:Vauxoo/stock-logistics-workflow.git
+	branch = 16.0
