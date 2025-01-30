@@ -1,7 +1,7 @@
 [submodule "earthoceanfarms"]
 	path = earthoceanfarms
 	url = git@git.vauxoo.com:vauxoo/earthoceanfarms.git
-	branch = 16.0
+	branch = 16.0-add_l10n_mx_edi_discount-module-CLaurelB
 [submodule "gandalf"]
 	path = gandalf
 	url = git@git.vauxoo.com:vauxoo/gandalf.git
@@ -49,4 +49,8 @@
 [submodule "stock-logistics-workflow"]
 	path = stock-logistics-workflow
 	url = git@github.com:Vauxoo/stock-logistics-workflow.git
+	branch = 16.0
+[submodule "l10n-mx-edi-discount"]
+	path = l10n-mx-edi-discount
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-discount.git
 	branch = 16.0
