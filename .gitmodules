@@ -12,8 +12,8 @@
 	branch = 19.0
 [submodule "account-analytic"]
 	path = account-analytic
-	url = git@github.com:OCA/account-analytic.git
-	branch = 19.0
+	url = git@github.com:Vauxoo-dev/account-analytic.git
+	branch = 19.0-mig-stock-analytic
 [submodule "account-payment-split"]
 	path = account-payment-split
 	url = git@git.vauxoo.com:vauxoo/account-payment-split.git
